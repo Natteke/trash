@@ -3,9 +3,9 @@
 # ==========================================
 # 1. ОСНОВНЫЕ ПЕРЕМЕННЫЕ
 # ==========================================
-VIDEO_URL="https://www.youtube.com/watch?v=s4CIpub5Q9Q"
-START_TIME="00:00:01.500" # Начало (формат ЧЧ:ММ:СС или просто секунды)
-END_TIME="00:00:04.000"   # Конец (формат ЧЧ:ММ:СС или просто секунды)
+VIDEO_URL="https://www.youtube.com/watch?v=1JFefTdgWbc"
+START_TIME="00:00:13.500" # Начало (формат ЧЧ:ММ:СС или просто секунды)
+END_TIME="00:00:16.500"   # Конец (формат ЧЧ:ММ:СС или просто секунды)
 OUTPUT_DIR="/Users/andrei/projects/trash/audio/dnd/bard"
 # Формат на выходе (mp3, ogg, wav)
 AUDIO_EXT="ogg"
